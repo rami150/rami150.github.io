@@ -1,0 +1,71 @@
+.titulo {
+    color: #9be;
+}
+.nashex{
+    font-size: 80px;
+}
+body{  background-color: #70f;
+}
+.titulo {
+    color: #3f0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    text-decoration: underline overline wavy #0ff;
+}
+.churro {
+    font-size: 25px;
+    font-family:'Segoe UI';
+    margin-top: 70px;
+    color: red;
+    text-shadow: #222 2px 3px;
+    text-decoration: underline yellow;
+    text-underline-position: center;
+}
+.ass {
+    font-size: 55px;
+    font-family: Impact;
+    text-align: center;
+    text-shadow: #3f0   2px 2px;
+    font-weight: 250;
+    line-height: 0.1;
+ 
+}
+.textito {
+    font-size: 35px;
+    font-family: impact;
+    text-align: left;
+    text-shadow: #3f0   2px 2px;
+    font-weight: 250;
+    line-height: 0; 
+}
+.puntos {
+    text-decoration: underline yellowgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.textito2 {
+    font-size: 35px;
+    font-family: impact;
+    text-align: left;
+    text-shadow: #3f0   2px 2px;
+    font-weight: 250;
+    margin-bottom: 100px;
+    line-height: 0;
+}
+.textito:hover {
+    color: orangered;
+}
+.textito2:hover {
+    color: orangered;
+}
+.ratita {
+    width: 400.01px;
+    height: 400.01px;
+}
+li {
+    font-size: 30px;
+}
+.shogur p {
+    text-align: center;
+    font-size: 77px;
+    color: yellow;
+}
